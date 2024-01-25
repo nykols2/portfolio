@@ -10,4 +10,4 @@ Bem-vindo ao meu portfólio! Este projeto foi desenvolvido em HTML e CSS para me
 - Portfolios de desenvolvedores.
 
 ## 📂 Acesse o projeto
-[Acesse aqui](https://portfolio-nykol.vercel.app/projetos/)
+[Acesse aqui](https://portfolio-nykol.vercel.app/)
